@@ -1,0 +1,718 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="username" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations/>
+  </metadata>
+  <text xml:id="username.text.1">
+    <w xml:id="username.text.1.w.1">
+      <t>1</t>
+    </w>
+    <s xml:id="username.text.1.s.1">
+      <t>It 's that time again , where we 're all excited about the new beginnings , new hopes and the whole new year , new you charm .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.2">
+    <w xml:id="username.text.2.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.2.s.1">
+      <t>Like every year , you need to make a few promises to yourself and stick around to your resolutions .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.3">
+    <w xml:id="username.text.3.w.1">
+      <t>1</t>
+    </w>
+    <s xml:id="username.text.3.s.1">
+      <t>And we know that most of us hardly stick to the resolutions .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.4">
+    <w xml:id="username.text.4.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.4.s.1">
+      <t>So this time we have come with a list of attainable goal that we can focus on .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.5">
+    <w xml:id="username.text.5.w.1">
+      <t>1</t>
+    </w>
+    <s xml:id="username.text.5.s.1">
+      <t>Excited for the New Year 2018 ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.6">
+    <w xml:id="username.text.6.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.6.s.1">
+      <t>Read through !  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.7">
+    <w xml:id="username.text.7.w.1">
+      <t>1</t>
+    </w>
+    <s xml:id="username.text.7.s.1">
+      <t>We know that imagining life without the internet is tough .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.8">
+    <w xml:id="username.text.8.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.8.s.1">
+      <t>But , do n't we all waste our time way too much on social media .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.9">
+    <w xml:id="username.text.9.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.9.s.1">
+      <t>From dinner dates to family outings , we must learn to prioritise things .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.10">
+    <w xml:id="username.text.10.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.10.s.1">
+      <t>Being realistic , let 's spend time on social media when we 're free and not every time .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.11">
+    <w xml:id="username.text.11.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.11.s.1">
+      <t>Do you know that 2017 was one year that focused a lot on health and fitness ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.12">
+    <w xml:id="username.text.12.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.12.s.1">
+      <t>From clean eating to a fitness regime , there are a lot of things you can introduce in your life now .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.13">
+    <w xml:id="username.text.13.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.13.s.1">
+      <t>Better now , then never !  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.14">
+    <w xml:id="username.text.14.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.14.s.1">
+      <t>When was the last time you met your grandmother or your uncle ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.15">
+    <w xml:id="username.text.15.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.15.s.1">
+      <t>Give your family the gift of time and trust us there is no better gift than time for them !  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.16">
+    <w xml:id="username.text.16.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.16.s.1">
+      <t>Do n't we all fall into the trap of office politics every now and then ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.17">
+    <w xml:id="username.text.17.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.17.s.1">
+      <t>Whenever you get in that zone , always think of your actions .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.18">
+    <w xml:id="username.text.18.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.18.s.1">
+      <t>Always think if your words or actions are worth ruining someone 's mood .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.19">
+    <w xml:id="username.text.19.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.19.s.1">
+      <t>Be it your wife or your mother , learn to thank the people around you .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.20">
+    <w xml:id="username.text.20.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.20.s.1">
+      <t>A little thank you wo n't hurt anyone .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.21">
+    <w xml:id="username.text.21.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.21.s.1">
+      <t>So , the next time your mother packs a wholesome meal , just appreciate her work and let her know how you feel !  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.22">
+    <w xml:id="username.text.22.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.22.s.1">
+      <t>Be it season sales or the easy EMIs , we hardly think of saving money .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.23">
+    <w xml:id="username.text.23.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.23.s.1">
+      <t>But this year , you must change that .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.24">
+    <w xml:id="username.text.24.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.24.s.1">
+      <t>If you 're really bad at saving , start small with saving a particular amount every month .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.25">
+    <w xml:id="username.text.25.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.25.s.1">
+      <t>With the busy work schedule , we hardly get to spend the time of new things .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.26">
+    <w xml:id="username.text.26.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.26.s.1">
+      <t>When was the last time you did something new ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.27">
+    <w xml:id="username.text.27.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.27.s.1">
+      <t>Ca n't think , right ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.28">
+    <w xml:id="username.text.28.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.28.s.1">
+      <t>This year make sure you try new things and have a whole lot of stories to share the entire year !  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.29">
+    <w xml:id="username.text.29.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.29.s.1">
+      <t>This year challenge yourself and break your shell .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.30">
+    <w xml:id="username.text.30.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.30.s.1">
+      <t>Talk to more people from your office to your gym class .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.31">
+    <w xml:id="username.text.31.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.31.s.1">
+      <t>We know that nothing beats meeting your old friends , but that does n't mean you should not make new friends at all .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.32">
+    <w xml:id="username.text.32.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.32.s.1">
+      <t>Sruthy Yedulal became a name to reckon with as one of the contestants of Flowers TV ’ s popular reality show , Malayali Veettamma .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.33">
+    <w xml:id="username.text.33.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.33.s.1">
+      <t>Last week , the lady from Thrissur became more than a contestant , as she emerged the winner of the show , after a splendid performance on the finale .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.34">
+    <w xml:id="username.text.34.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.34.s.1">
+      <t>She also walked away with a flat worth ` 1 crore and a car .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.35">
+    <w xml:id="username.text.35.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.35.s.1">
+      <t>From the ladder dance to aerial performances , she eased all the rounds of the finale and proved to be a deserving winner .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.36">
+    <w xml:id="username.text.36.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.36.s.1">
+      <t>Sruthy gets candid about the win and her experience on the show : When you became one among the final five , did you expect to win ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.37">
+    <w xml:id="username.text.37.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.37.s.1">
+      <t>Though I wished to enter the final list , I did not ever pray or wish to win the show .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.38">
+    <w xml:id="username.text.38.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.38.s.1">
+      <t>I used to have dreams about others emerging as winners .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.39">
+    <w xml:id="username.text.39.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.39.s.1">
+      <t>All I was determined to do was give my best and work hard .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.40">
+    <w xml:id="username.text.40.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.40.s.1">
+      <t>Describe your journey in Malayali Veettama .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.41">
+    <w xml:id="username.text.41.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.41.s.1">
+      <t>I was an introvert prior to the contest .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.42">
+    <w xml:id="username.text.42.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.42.s.1">
+      <t>I came across the ad of the reality show on the channel and wanted to give it a try .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.43">
+    <w xml:id="username.text.43.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.43.s.1">
+      <t>Thus I went for the audition in Thrissur and was one among the 200 participants .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.44">
+    <w xml:id="username.text.44.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.44.s.1">
+      <t>I never expected to get selected .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.45">
+    <w xml:id="username.text.45.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.45.s.1">
+      <t>After three months of audition , I got a surprise call from the channel and was informed that I got selected for the final audition for the show .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.46">
+    <w xml:id="username.text.46.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.46.s.1">
+      <t>Thus I attended it , which was a grooming round , from which 20 contestants for the show were again selected .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.47">
+    <w xml:id="username.text.47.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.47.s.1">
+      <t>I was one of them .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.48">
+    <w xml:id="username.text.48.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.48.s.1">
+      <t>Thus , we had one month grooming session in November 2016 , by writer-cum-actor Jayaprakash Kuloor .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.49">
+    <w xml:id="username.text.49.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.49.s.1">
+      <t>Though we were competitors , the 20 participants developed a strong bond with each other in the grooming period .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.50">
+    <w xml:id="username.text.50.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.50.s.1">
+      <t>Did you evolve , as a person , through the show ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.51">
+    <w xml:id="username.text.51.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.51.s.1">
+      <t>I was active in cultural activities during my school days .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.52">
+    <w xml:id="username.text.52.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.52.s.1">
+      <t>But I became reserved during my graduation days in college and also got busy with my job as a bank employee and my family .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.53">
+    <w xml:id="username.text.53.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.53.s.1">
+      <t>I was a person who used to pull myself back from activities , as I doubted my skills .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.54">
+    <w xml:id="username.text.54.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.54.s.1">
+      <t>After being part of Malayali Veettama , I started to explore my artistic skills and utilise my calibre to the maximum .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.55">
+    <w xml:id="username.text.55.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.55.s.1">
+      <t>I must say that the tasks and rounds given to us in the reality show helped me regain my self-confidence .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.56">
+    <w xml:id="username.text.56.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.56.s.1">
+      <t>After winning the title , I feel empowered and have a strong willpower to accomplish anything that comes across my life .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.57">
+    <w xml:id="username.text.57.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.57.s.1">
+      <t>Another factor is that I could learn what goes behind the production of a show , its camera angles , and more .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.58">
+    <w xml:id="username.text.58.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.58.s.1">
+      <t>I also learned more about acting and dancing , and I guess I could do away with my camera fear as well .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.59">
+    <w xml:id="username.text.59.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.59.s.1">
+      <t>Being the winner of the show , what is your message for women ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.60">
+    <w xml:id="username.text.60.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.60.s.1">
+      <t>To all those women out there , I want to say that they should be confident in themselves .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.61">
+    <w xml:id="username.text.61.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.61.s.1">
+      <t>We are all beautiful souls .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.62">
+    <w xml:id="username.text.62.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.62.s.1">
+      <t>Also , be aware of your skills and utilise them the best .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.63">
+    <w xml:id="username.text.63.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.63.s.1">
+      <t>Never think that marriage means the end of your dreams .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.64">
+    <w xml:id="username.text.64.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.64.s.1">
+      <t>Make sure that you have the support of your husband and his family too .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.65">
+    <w xml:id="username.text.65.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.65.s.1">
+      <t>Family is our strength so it ’ s also important not to side-line our duties as a member .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.66">
+    <w xml:id="username.text.66.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.66.s.1">
+      <t>If I achieved something then it is because my family supported me and gave wings to my dreams .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.67">
+    <w xml:id="username.text.67.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.67.s.1">
+      <t>Tell us about your family .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.68">
+    <w xml:id="username.text.68.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.68.s.1">
+      <t>I am the mother of a two-year-old girl , Vaidehi , and we live in Guruvayoor .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.69">
+    <w xml:id="username.text.69.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.69.s.1">
+      <t>She was only nine months old when I auditioned for the show .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.70">
+    <w xml:id="username.text.70.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.70.s.1">
+      <t>My heartfelt thanks to the director of the show , Anoop John , as he ensured that I can also take care of my baby and feed her on time , while shooting .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.71">
+    <w xml:id="username.text.71.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.71.s.1">
+      <t>When I had to get on the stage , my mother or mother-in-law used to take care of her .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.72">
+    <w xml:id="username.text.72.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.72.s.1">
+      <t>After the initial episodes , Vaidehi also became used to it .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.73">
+    <w xml:id="username.text.73.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.73.s.1">
+      <t>My husband Yedulal is a bank employee at Thrissur .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.74">
+    <w xml:id="username.text.74.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.74.s.1">
+      <t>What were your favourite moments on the show ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.75">
+    <w xml:id="username.text.75.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.75.s.1">
+      <t>I must say the tasks which gave me the best comments .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.76">
+    <w xml:id="username.text.76.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.76.s.1">
+      <t>In the marketing round , I was asked to sell methiyadi on the stage and I could give a convincing performance .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.77">
+    <w xml:id="username.text.77.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.77.s.1">
+      <t>Another round which was very emotional for me was Amma Manas , in which we had to surprise our mothers .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.78">
+    <w xml:id="username.text.78.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.78.s.1">
+      <t>The most joyous moment was when my husband performed a skit on stage , that too for the first time in his life and also got appreciated by the judges .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.79">
+    <w xml:id="username.text.79.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.79.s.1">
+      <t>And what was the great challenge for you ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.80">
+    <w xml:id="username.text.80.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.80.s.1">
+      <t>As I wanted to showcase something unique , I performed a rope dance and ladder dance for the final .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.81">
+    <w xml:id="username.text.81.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.81.s.1">
+      <t>Choreographer Rajesh , from Kollam , helped me to perform both .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.82">
+    <w xml:id="username.text.82.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.82.s.1">
+      <t>I was a bit scared as both required months of training , while I only had a few days ’ time .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.83">
+    <w xml:id="username.text.83.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.83.s.1">
+      <t>I even got my leg injured in the initial try but I did not give up .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.84">
+    <w xml:id="username.text.84.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.84.s.1">
+      <t>Later , I attempted a stunt too , by bending an iron rod with my neck and breaking a rock laying on a bed of iron nails .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.85">
+    <w xml:id="username.text.85.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.85.s.1">
+      <t>Being scared of heights , I still remember how I shivered when I climbed a horizontal ladder and conquered my fear .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.86">
+    <w xml:id="username.text.86.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.86.s.1">
+      <t>Up next ?  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.87">
+    <w xml:id="username.text.87.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.87.s.1">
+      <t>During the marketing round , prominent hair stylist Ambika Pillai , one of the judges of the show , said that I have what it takes to be a radio jockey .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.88">
+    <w xml:id="username.text.88.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.88.s.1">
+      <t>So , now it is my dream to become one .  </t>
+    </s>
+  </text>
+  <text xml:id="username.text.89">
+    <w xml:id="username.text.89.w.1">
+      <t>0</t>
+    </w>
+    <s xml:id="username.text.89.s.1">
+      <t>I am a huge fan of actress Srinda and I also wish to act in films , like her , if I get good roles in which I can perform well .  </t>
+    </s>
+  </text>
+</FoLiA>

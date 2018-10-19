@@ -1,0 +1,30 @@
+Install requirements in txt file.
+
+then type 
+
+python3 -m flask run 
+
+time to go localhost:5000/
+
+
+Aim of the project
+------------------
+Read news,
+tokenize it,
+serve the sentences to the client to answer the sentence whether 1 or 0,
+then create user selections to a new Folia XML Document
+
+RTFM
+----
+
+Based on the news in
+
+https://timesofindia.indiatimes.com/2018/1/1/archivelist/year-2018,month-1,starttime-43101.cms
+
+For tokenizing the paragraphs, it's using python-ucto library.
+
+https://github.com/proycon/python-ucto
+
+For creating Folia document, it's using pynlpl library.
+
+https://pynlpl.readthedocs.io/en/latest/

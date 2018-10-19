@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Crawler</title>
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flat-ui/2.3.0/css/flat-ui.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<style>h6{font-size: 16px !important;}</style>
+</head>
+<body>
+<p><tt id="results"></tt></p>
+{% if data %}
+	<form method="POST" action="/download">
+		<button type="submit">See As Folia</button>
+	{% for i in data %}
+		{% for j in data[i] %}
+		<div class="form-control" style="display:inline-table;">
+			<h6>{{j}}</h6>
+			<select name="single">
+    			<option value="0">0</option>
+    			<option value="1">1</option>
+  			</select>
+  		</div>
+		{% endfor %}	
+	{% endfor %}
+	</form>
+{% endif %}
+
+<a id="anchorID" href="/files/user_selections.xml" target="_blank"></a>
+<script>
+  function showValues() {
+    var str = $( "form" ).serialize();
+    return str;
+  }
+  $( "select" ).on( "change", showValues );
+  showValues();
+
+  $( "button" ).click(function(event) {
+  	event.preventDefault();
+  	answers = showValues().split("&");
+  	var obj={};
+  	counter = 0;
+    for(var key in answers)
+    {
+        obj[counter] = answers[key].split("=")[1];
+        counter++;
+    }
+  	data = {}
+  	$('.form-control h6').each(function(index, item){
+	    data[index] = {}
+	    var text = $(item).text();
+	    obj[index] + ' ' + text
+	    data[index]['text'] = text;
+	    data[index]['value'] = obj[index].toString();
+	});
+
+	/*$.post( "/download", {'val': data})
+	  .done(function( datas ) {
+	    alert( "Data Loaded: " + datas );
+	  });*/
+	 var settings = {
+		  "async": true,
+		  "crossDomain": true,
+		  "url": "http://localhost:5000/download",
+		  "method": "POST",
+		  "headers": {
+		    "content-type": "application/x-www-form-urlencoded",
+		    "cache-control": "no-cache",
+		  },
+		  "data": {
+		    "val": JSON.stringify(data)
+		  }
+		}
+
+		$.ajax(settings).done(function (response) {
+			setTimeout(function() {
+    			document.getElementById("anchorID").click();
+			}, 2);
+		  
+		});
+  });
+</script>
+</body>
+</html>
+
+
