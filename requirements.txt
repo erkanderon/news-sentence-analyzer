@@ -7,7 +7,7 @@ docutils==0.14
 Flask==1.0.2
 FoLiA-tools==1.5.1.60
 html5lib==1.0.1
-httplib2==0.11.3
+httplib2==0.18.0
 idna==2.7
 isodate==0.6.0
 itsdangerous==0.24
