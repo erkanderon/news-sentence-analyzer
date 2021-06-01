@@ -22,6 +22,6 @@ PyYAML==3.13
 rdflib==4.2.2
 requests==2.19.1
 six==1.11.0
-urllib3==1.23
+urllib3==1.26.5
 webencodings==0.5.1
 Werkzeug==0.14.1
